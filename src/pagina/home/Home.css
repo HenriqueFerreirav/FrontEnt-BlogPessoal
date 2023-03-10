@@ -1,0 +1,26 @@
+
+.corlogo{
+    color: rgb(0, 0, 0);
+    width: 30px;
+    height: 30px;
+}
+.caixa{
+    background: #323232; background: -moz-linear-gradient(-146deg,  #323232 0%,#4b4b4b 48%,#1c1c1c 100%); background: -webkit-linear-gradient(-146deg,  #323232 0%,#4b4b4b 48%,#1c1c1c 100%); background: linear-gradient(-146deg,  #323232 0%,#4b4b4b 48%,#1c1c1c 100%);
+}
+.titulo{
+    color: white !important;
+    font-weight: "bold" !important;
+}
+.botao1{
+    border-color: white !important;
+    background-color: black !important;
+    color: white !important;
+}
+.botao2{
+    border-color: white !important;
+    background-color: black !important;
+    color: white !important;
+}
+.postagens{
+    background: #323232; background: -moz-linear-gradient(-146deg,  #323232 0%,#4b4b4b 48%,#1c1c1c 100%); background: -webkit-linear-gradient(-146deg,  #323232 0%,#4b4b4b 48%,#1c1c1c 100%); background: linear-gradient(-146deg,  #323232 0%,#4b4b4b 48%,#1c1c1c 100%);
+}
